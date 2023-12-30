@@ -6,7 +6,7 @@
     </p>
     <div class="card-text-below">
       <p>
-        Lorem Lucas Henrique da Costa
+        Lucas Henrique da Costa
       </p>
     </div>
     <div class="card-side">
