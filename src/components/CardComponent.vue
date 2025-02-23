@@ -6,11 +6,11 @@
     </p>
     <div class="card-text-below">
       <p>
-        Lucas Henrique da Costa
+        LHC
       </p>
     </div>
     <div class="card-side">
-      <h2>Lucas <br> Henrique</h2>
+      <h6>by <br> L. Henrique</h6>
       <div class="card-on" @click="cardOn">
         <span id="card-plus">+</span>
         <span id="card-minus">-</span>
@@ -18,7 +18,7 @@
     </div>
     <div class="card-side-text">
       <p class="card-paragraph">
-        Lorem texto bem longo aqui pra mostrar como que as coisas são.
+        That's what my first GSAP experience look like.
       </p>
     </div>
   </div>
@@ -113,6 +113,5 @@ export default {
 </script>
 
 <style scoped>
-
 
 </style>
